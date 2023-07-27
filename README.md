@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on my personal portfolio, along with some fun musical tools!
-- 🌱 I’m currently learning about web audio, and using GraphQL endpoints
+- 🌱 I’m currently learning about web audio, using GraphQL endpoints, and working with modern Python Artificial Intelligence algorithms
 - 👯 I’m looking to collaborate on any interesting projects!
 
 <!--
