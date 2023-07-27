@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+It's+nice+to+have+you+here.)](https://git.io/typing-svg)
 
-
+---
+# ⚡️ A quick introduction
 - 🔭 I’m currently working on my personal portfolio, along with some fun musical tools!
 - 🌱 I’m currently learning about web audio, using GraphQL endpoints, and working with modern Python Artificial Intelligence algorithms
 - 👯 I’m looking to collaborate on any interesting projects!
